@@ -1,0 +1,5 @@
+{
+  "working": [{ "key": "current_goal", "value": "inventory fleet", "ts": "2026-10-03T11:00:00Z" }],
+  "episodic": [{ "key": "run-20261003", "actions": ["list_repos", "flag_stale"], "outcome": "3 stale found" }],
+  "semantic": [{ "key": "rule:staleness", "value": "flag repos with pushed_at > 14 days" }]
+}
